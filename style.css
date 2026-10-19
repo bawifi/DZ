@@ -1,0 +1,32 @@
+nav a {
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #2563eb;
+}
+
+.btn {
+	padding: 10px 16px;
+	border: 0;
+	border-radius: 6px;
+	color: white;
+	background: #2563eb;
+}
+
+.btn:hover {
+	background: #1d4ed8;
+}
+
+.btn:active {
+	transform: scale(0.97);
+}
+
+.card {
+	padding: 16px;
+	border: 1px solid #cccccc;
+}
+
+.card:hover {
+	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
